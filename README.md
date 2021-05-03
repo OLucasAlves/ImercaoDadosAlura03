@@ -13,4 +13,4 @@
 mercado e desenvolvendo projetos com dados do mundo real. É tanto para quem está na área de Dados e quer se aprimorar, quanto 
 para quem está começando agora na carreira e quer saber mais sobre esse mercado.</p>
 
-### Neste repositório compartilho os códigos das aulas e as resoluções dos desafios propostos
+### Neste repositório compartilho os códigos das aulas e as resoluções dos desafios propostos.
